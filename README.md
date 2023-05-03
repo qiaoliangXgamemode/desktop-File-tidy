@@ -1,5 +1,5 @@
 # desktop-File-tidy
-整理桌面一推文件。
+整理 *当前目录下*桌面一推文件。
 使用如下：
 
 ```python ./Clean.py```
